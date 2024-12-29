@@ -1,0 +1,26 @@
+* What is Component ?
+- A component is a self-contained piece of code that can be reused in multiple parts of an application.
+- Component k name ka first letter capital hona chahiye.
+- Component ko hum call nahi render krty hain. 
+- Component ko multiple times use kiya ja sakta hai.
+- Component html ka parent element return karta hai.
+- Component main javascript/typescript k under html or css bhi likh sakty hain.
+- Component main html k under javascript/typescript bhi likh sakty hain.
+
+* Is it a Function or Class ?
+- A component can be either a function or a class.
+
+* Is it a React Component ?
+- A React component is a component that is used in a React application. React components are typically written in JavaScript and are used to represent a UI component in a React application.
+
+* Is it a UI Component ?
+- A UI component is a component that is used to represent a user interface element in an application. UI
+components are typically used to display data or handle user input.
+
+* Is it a Class Component ?
+- A class component is a type of component that is written as a class in JavaScript. Class components are
+typically used in React applications and are used to represent a UI component.
+
+* Is it a Functional Component ?
+- A functional component is a type of component that is written as a function in JavaScript. Functional
+components are typically used in React applications and are used to represent a UI component.
